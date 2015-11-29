@@ -1,0 +1,2 @@
+cd Programmes/
+./LancerProg.sh

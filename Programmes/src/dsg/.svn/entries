@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://subversion.assembla.com/svn/jdenos_GDR"
+   name=""
+   revision="4"
+   last-author="jdenos"
+   url="https://subversion.assembla.com/svn/jdenos_GDR/GDReclipse/src/dsg"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2013-04-26T16:19:44.075000Z"/>
+<entry
+   name="CatEditorDsg.java"
+   revision="26"
+   checksum="cecfcf8774dab9159562d3db2543bfd0"
+   last-author="jdenos"
+   text-time="2013-05-04T10:02:04.000000Z"
+   committed-rev="26"
+   kind="file"
+   committed-date="2013-05-05T10:48:54.264000Z"/>
+<entry
+   name="CatMgmtDsg.java"
+   revision="24"
+   checksum="071a1e9485b42d7d7197977b88f7fe73"
+   last-author="jdenos"
+   text-time="2013-05-01T14:33:46.000000Z"
+   committed-rev="24"
+   kind="file"
+   committed-date="2013-05-01T14:55:36.258000Z"/>
+<entry
+   name="IngredientEditorDsg.java"
+   revision="13"
+   checksum="b9bd6977644749f5eb364b81f19e5e7d"
+   last-author="jdenos"
+   committed-rev="13"
+   text-time="2013-04-28T20:50:57.000000Z"
+   kind="file"
+   committed-date="2013-04-28T21:04:12.821000Z"/>
+<entry
+   name="PrepEditorDsg.java"
+   revision="27"
+   checksum="9fce3fdd0e417ef6c582743ced3e1532"
+   last-author="jdenos"
+   committed-rev="27"
+   text-time="2013-05-05T23:33:41.000000Z"
+   kind="file"
+   committed-date="2013-05-05T23:50:55.984000Z"/>
+<entry
+   name="RecepieFilterDsg.java"
+   revision="29"
+   checksum="11e957c4bd56a3b88dbdcebd8a1d501c"
+   last-author="jdenos"
+   committed-rev="29"
+   text-time="2013-05-06T09:57:01.000000Z"
+   kind="file"
+   committed-date="2013-05-06T10:03:13.857000Z"/>
+<entry
+   name="RecipeEditor.java"
+   revision="10"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="RecipeEditordsg.java"
+   revision="29"
+   checksum="72d288899da1b992167769887776b88d"
+   last-author="jdenos"
+   committed-rev="29"
+   text-time="2013-05-06T10:01:20.000000Z"
+   kind="file"
+   committed-date="2013-05-06T10:03:13.857000Z"/>
+<entry
+   name="RefEditorDsg.java"
+   revision="23"
+   checksum="79761fac633b85fb8cd8a222e8cbe799"
+   last-author="jdenos"
+   text-time="2013-05-01T13:37:07.000000Z"
+   committed-rev="23"
+   kind="file"
+   committed-date="2013-05-01T13:58:07.944000Z"/>
+<entry
+   name="RefMgmtDsg.java"
+   revision="22"
+   checksum="91900389c5e679c96e8bf238545732c8"
+   last-author="jdenos"
+   text-time="2013-05-01T12:12:37.000000Z"
+   committed-rev="22"
+   kind="file"
+   committed-date="2013-05-01T12:16:16.052000Z"/>
+<entry
+   name="StartDsg.java"
+   revision="25"
+   checksum="e18be36fa4bdb161f2e7163eb77ddc73"
+   last-author="jdenos"
+   text-time="2013-05-01T15:16:13.000000Z"
+   committed-rev="25"
+   kind="file"
+   committed-date="2013-05-01T15:26:07.789000Z"/>
+</wc-entries>

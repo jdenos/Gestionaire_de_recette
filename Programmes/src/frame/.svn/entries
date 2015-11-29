@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://subversion.assembla.com/svn/jdenos_GDR"
+   name=""
+   revision="4"
+   last-author="jdenos"
+   url="https://subversion.assembla.com/svn/jdenos_GDR/GDReclipse/src/frame"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2013-04-26T16:19:44.075000Z"/>
+<entry
+   name="CatEditor.java"
+   revision="26"
+   checksum="d718b85be40636cea1628a4fbef30bf2"
+   last-author="jdenos"
+   committed-rev="26"
+   text-time="2013-05-04T15:58:53.000000Z"
+   kind="file"
+   committed-date="2013-05-05T10:48:54.264000Z"/>
+<entry
+   name="CatMgmt.java"
+   revision="24"
+   checksum="aca657cb349e7ed70be9e09f7c95b8d0"
+   last-author="jdenos"
+   committed-rev="24"
+   text-time="2013-05-01T14:46:52.000000Z"
+   kind="file"
+   committed-date="2013-05-01T14:55:36.258000Z"/>
+<entry
+   name="IngredientEditor.java"
+   revision="18"
+   checksum="5498b9df8faf85d3b185476b8cb08149"
+   last-author="jdenos"
+   committed-rev="18"
+   text-time="2013-04-30T21:01:23.000000Z"
+   kind="file"
+   committed-date="2013-04-30T21:12:50.595000Z"/>
+<entry
+   name="PrepEditor.java"
+   revision="29"
+   checksum="4396228f955f48d01cbe2a1138174276"
+   last-author="jdenos"
+   text-time="2013-05-06T09:24:00.000000Z"
+   committed-rev="29"
+   kind="file"
+   committed-date="2013-05-06T10:03:13.857000Z"/>
+<entry
+   name="RecepieFilter.java"
+   revision="27"
+   checksum="f98d6c7b43ff73fbfbb1e541b56368f5"
+   last-author="jdenos"
+   text-time="2013-05-05T23:33:51.000000Z"
+   committed-rev="27"
+   kind="file"
+   committed-date="2013-05-05T23:50:55.984000Z"/>
+<entry
+   name="RecipeEditor.java"
+   revision="28"
+   checksum="0270d5f2757ca268bbfa2d317cfc8820"
+   last-author="jdenos"
+   text-time="2013-05-06T08:03:40.000000Z"
+   committed-rev="28"
+   kind="file"
+   committed-date="2013-05-06T08:37:45.424000Z"/>
+<entry
+   name="RefEditor.java"
+   revision="23"
+   checksum="e013931ec925947f7ca569e00abc24cc"
+   last-author="jdenos"
+   committed-rev="23"
+   text-time="2013-05-01T13:29:14.000000Z"
+   kind="file"
+   committed-date="2013-05-01T13:58:07.944000Z"/>
+<entry
+   name="RefMgmt.java"
+   revision="23"
+   checksum="760938330e7bba8df4c44b5ecf84e70d"
+   last-author="jdenos"
+   committed-rev="23"
+   text-time="2013-05-01T13:43:57.000000Z"
+   kind="file"
+   committed-date="2013-05-01T13:58:07.944000Z"/>
+<entry
+   name="Start.java"
+   revision="25"
+   checksum="f82c243705172913d821eb2f80679b25"
+   last-author="jdenos"
+   committed-rev="25"
+   text-time="2013-05-01T15:22:28.000000Z"
+   kind="file"
+   committed-date="2013-05-01T15:26:07.789000Z"/>
+<entry
+   name="TestFrame.java"
+   revision="27"
+   checksum="711a8180e4b7b2242e586fe4f5bbab12"
+   last-author="jdenos"
+   text-time="2013-05-05T23:49:36.000000Z"
+   committed-rev="27"
+   kind="file"
+   committed-date="2013-05-05T23:50:55.984000Z"/>
+</wc-entries>

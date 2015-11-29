@@ -1,0 +1,64 @@
+package frame;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JFrame;
+import dsg.StartDsg;
+
+public class Start extends JFrame {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	private StartDsg dsg;
+
+	/**
+	 * Create the frame.
+	 */
+	public Start() {
+		this.dsg = new StartDsg();
+		this.rootPane.getContentPane().add(dsg);
+		this.dsg.getRecBtn().addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent arg0) {
+				RecepieFilter rf = new RecepieFilter();
+				rf.setSize(800, 600);
+				rf.setVisible(true);
+
+			}
+		});
+		
+		this.dsg.getCatBtn().addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				CatMgmt cm = new CatMgmt();
+				cm.setSize(800, 600);
+				cm.setVisible(true);
+
+			}
+		});
+		this.dsg.getRefBtn().addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				RefMgmt rm = new RefMgmt();
+				rm.setSize(800, 600);
+				rm.setVisible(true);
+
+			}
+		});
+		this.dsg.getQuitBtn().addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				System.exit(0);
+
+			}
+		});
+	}
+
+}

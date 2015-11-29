@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://subversion.assembla.com/svn/jdenos_GDR"
+   name=""
+   revision="4"
+   last-author="jdenos"
+   url="https://subversion.assembla.com/svn/jdenos_GDR/GDReclipse/src/GDR"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2013-04-26T16:19:44.075000Z"/>
+<entry
+   name="Categorie.java"
+   revision="21"
+   checksum="f222a93d0bb9b54148df7c3b597ffbed"
+   last-author="jdenos"
+   committed-rev="21"
+   text-time="2013-05-01T09:03:56.000000Z"
+   kind="file"
+   committed-date="2013-05-01T09:22:18.075000Z"/>
+<entry
+   name="GDR.java"
+   revision="26"
+   checksum="b69b336e2daa6cb75aba7e2579822c4c"
+   last-author="jdenos"
+   committed-rev="26"
+   text-time="2013-05-01T16:00:25.000000Z"
+   kind="file"
+   committed-date="2013-05-05T10:48:54.264000Z"/>
+<entry
+   name="Ingredient.java"
+   revision="23"
+   checksum="1a8d6c7f0b956bf6516f04ca604ca005"
+   last-author="jdenos"
+   committed-rev="23"
+   text-time="2013-05-01T13:54:56.000000Z"
+   kind="file"
+   committed-date="2013-05-01T13:58:07.944000Z"/>
+<entry
+   name="Preparation.java"
+   revision="28"
+   checksum="2bd33bdd06023d3fb011d50c1bf84fdf"
+   last-author="jdenos"
+   text-time="2013-05-06T08:29:48.000000Z"
+   committed-rev="28"
+   kind="file"
+   committed-date="2013-05-06T08:37:45.424000Z"/>
+<entry
+   name="Recette.java"
+   revision="28"
+   checksum="dbb724d1988e20e82aa0aa74df013cab"
+   last-author="jdenos"
+   committed-rev="28"
+   text-time="2013-05-06T08:34:57.000000Z"
+   kind="file"
+   committed-date="2013-05-06T08:37:45.424000Z"/>
+<entry
+   name="Reference.java"
+   revision="21"
+   checksum="d58a6d7e625fe9c9dbd81917b7874514"
+   last-author="jdenos"
+   committed-rev="21"
+   text-time="2013-05-01T09:11:13.000000Z"
+   kind="file"
+   committed-date="2013-05-01T09:22:18.075000Z"/>
+</wc-entries>

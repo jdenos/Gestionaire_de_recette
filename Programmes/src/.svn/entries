@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://subversion.assembla.com/svn/jdenos_GDR"
+   name=""
+   revision="4"
+   last-author="jdenos"
+   url="https://subversion.assembla.com/svn/jdenos_GDR/GDReclipse/src"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2013-04-26T16:19:44.075000Z"/>
+<entry
+   name="GDR"
+   kind="dir"/>
+<entry
+   name="dsg"
+   kind="dir"/>
+<entry
+   name="frame"
+   kind="dir"/>
+</wc-entries>
